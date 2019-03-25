@@ -12,7 +12,7 @@ Perfect for buttons, logos and nav/tab bars. Easy to extend, style and integrate
 - 阿里图标引用
   
 # Effect Picture
-  -阿里图标效果图
+- 阿里图标效果图
   
 <a><img width="200" src="./iconEc.png"></a>
 
