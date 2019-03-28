@@ -497,5 +497,7 @@ Any bundled fonts are copyright to their respective authors and mostly under MIT
 
 ## Tutorials
 
-- [react-native-vector-icons组件（阿里巴巴图标库）的安装与配置步骤](https://www.iconfont.cn/manage/index?manage_type=myprojects&projectId=897787)
+- [react-native-vector-icons组件（阿里巴巴图标库）的安装与配置步骤](https://blog.csdn.net/f409031mn/article/details/79522129)
+
+- [阿里巴巴图标库仓库地址](https://www.iconfont.cn/manage/index?manage_type=myprojects&projectId=897787)
 
