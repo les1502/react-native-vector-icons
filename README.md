@@ -8,6 +8,9 @@ Perfect for buttons, logos and nav/tab bars. Easy to extend, style and integrate
 
 [Browse all](https://oblador.github.io/react-native-vector-icons/).
 
+## Introduction
+- 当有引入UI图标需求又不想引入本地图片的时候可以采用阿里的react-native-vector-icons这个组件
+
 # Use Case
 - 阿里图标引用
   
