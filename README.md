@@ -495,3 +495,7 @@ This project is licenced under the [MIT License](http://opensource.org/licenses/
 
 Any bundled fonts are copyright to their respective authors and mostly under MIT or [SIL OFL](http://scripts.sil.org/OFL).
 
+## Tutorials
+
+- [react-native-vector-icons组件（阿里巴巴图标库）的安装与配置步骤](https://www.iconfont.cn/manage/index?manage_type=myprojects&projectId=897787)
+
