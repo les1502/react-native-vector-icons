@@ -470,7 +470,6 @@ For default template please provide `--componentName` and `--fontFamily`.
 #### `-o`, `--output`
 Save output to file, defaults to STDOUT
 
-## [Changelog](https://github.com/oblador/react-native-vector-icons/releases)
 
 ## Troubleshooting
 
